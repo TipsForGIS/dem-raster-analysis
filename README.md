@@ -1,4 +1,4 @@
-# dem-raster-analysis
+# DEM raster analysis in Python
 Python DEM raster analysis using rasterio, richDEM, geopandas, and shapely.
 
 
