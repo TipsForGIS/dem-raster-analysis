@@ -1,6 +1,6 @@
 # DEM raster analysis in Python
 
-The DEM raster analysis is explained using rasterio, richDEM, geopandas, and shapely.
+- The DEM raster analysis is explained using rasterio, richDEM, geopandas, and shapely.
 
 
 The Jupyter Notebook is a tutorial explaining the following steps:
